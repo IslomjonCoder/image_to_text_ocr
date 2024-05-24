@@ -1,0 +1,13 @@
+{
+  "details": "Details",
+  "edit": "Edit",
+  "textFile": "Text File",
+  "pdfFile": "PDF File",
+  "copiedToClipboard": "copied to clipboard",
+  "home": "Home",
+  "settings": "Settings",
+  "language": "Language",
+  "themeMode": "Theme mode",
+  "dark": "Dark",
+  "light": "Light"
+}

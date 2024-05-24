@@ -1,0 +1,15 @@
+{
+  "details": "Детали",
+  "edit": "Изменить",
+  "textFile": "Текстовый файл",
+  "pdfFile": "PDF файл",
+  "copiedToClipboard": "скопировано в буфер обмена",
+  "home": "Главная",
+  "settings": "Настройки",
+  "language": "Язык",
+  "themeMode": "Режим темы",
+  "dark": "Темный",
+  "light": "Свет"
+
+
+}
